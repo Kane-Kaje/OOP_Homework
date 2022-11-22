@@ -1,0 +1,5 @@
+﻿  OOP-HW_2.2.cpp
+D:\CodeTesting\OOP-HW_2.2\OOP-HW_2.2\OOP-HW_2.2.cpp(6,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\CodeTesting\OOP-HW_2.2\OOP-HW_2.2\OOP-HW_2.2.cpp(16,17): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\CodeTesting\OOP-HW_2.2\OOP-HW_2.2\OOP-HW_2.2.cpp(21,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OOP-HW_2.2.vcxproj -> D:\CodeTesting\OOP-HW_2.2\x64\Debug\OOP-HW_2.2.exe

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1669055022 source:d:\codeblocks\oop-homework_1\a.c
+	"a.h"
+
+1669054089 d:\codeblocks\oop-homework_1\a.h
+	<stdio.h>
+	<stdlib.h>
+
+1669055642 source:d:\codeblocks\oop-homework_1\main.c
+	"b.h"
+
+1669055634 d:\codeblocks\oop-homework_1\b.h
+	"a.h"
+
