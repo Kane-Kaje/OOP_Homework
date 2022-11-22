@@ -1,0 +1,9 @@
+﻿  OOP-HW_2.12.cpp
+D:\CodeTesting\OOP-HW_2.12\OOP-HW_2.12\OOP-HW_2.12.cpp(41,36): error C2672: 'Min': no matching overloaded function found
+D:\CodeTesting\OOP-HW_2.12\OOP-HW_2.12\OOP-HW_2.12.cpp(23,3): message : could be 'T Min(T,T,T)'
+D:\CodeTesting\OOP-HW_2.12\OOP-HW_2.12\OOP-HW_2.12.cpp(41,13): message : 'T Min(T,T,T)': template parameter 'T' is ambiguous
+D:\CodeTesting\OOP-HW_2.12\OOP-HW_2.12\OOP-HW_2.12.cpp(23): message : see declaration of 'Min'
+D:\CodeTesting\OOP-HW_2.12\OOP-HW_2.12\OOP-HW_2.12.cpp(41,36): message : could be 'Person'
+D:\CodeTesting\OOP-HW_2.12\OOP-HW_2.12\OOP-HW_2.12.cpp(41,36): message : or       'Cat'
+D:\CodeTesting\OOP-HW_2.12\OOP-HW_2.12\OOP-HW_2.12.cpp(41,13): message : 'T Min(T,T,T)': could not deduce template argument for 'T' from 'Person'
+D:\CodeTesting\OOP-HW_2.12\OOP-HW_2.12\OOP-HW_2.12.cpp(23): message : see declaration of 'Min'
